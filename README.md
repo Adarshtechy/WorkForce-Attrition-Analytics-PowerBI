@@ -1,24 +1,42 @@
-## 🧑‍💼 Employee Attrition Analysis -- PowerBI
+## Workforce Attrition Analytics (Power BI)
 
-This repository contains a comprehensive data analytics project focused on **Employee Attrition** using HR datasets. 
-
-The goal is to uncover key trends and patterns in employee turnover through data-driven insights and interactive dashboards.
+A comprehensive Employee Attrition Analysis Dashboard built using Microsoft Power BI, designed to help organizations understand workforce trends, identify attrition drivers, and support data-driven HR decision-making.
 
 ## 📊 Project Overview
 
-Employee attrition refers to the gradual loss of employees over time. 
+   - Employee attrition has a significant impact on organizational performance, costs, and culture. This project analyzes employee data to uncover:
 
-Understanding the reasons behind employee attrition is crucial for organizations to improve retention and maintain a productive workforce.
+   - Key factors influencing employee turnover
 
-This project leverages a structured HR dataset and applies statistical analysis, data visualization, and business intelligence techniques to identify:
+   - Department-wise and role-based attrition patterns
 
-- High-risk groups prone to leaving the company
+   - Workforce demographics and trends
 
-- Key factors contributing to attrition (e.g., job satisfaction, environment, income)
+   - Actionable insights for HR and management teams
 
-- Department-wise attrition rates
+   - The interactive Power BI dashboard enables users to explore attrition data visually and efficiently.
 
-- Actionable insights for HR and management
+## 🎯 Objectives
+
+   - Analyze employee attrition trends across the organization
+
+   - Identify high-risk departments and job roles
+
+   - Understand demographic and compensation factors affecting attrition
+
+   - Provide a clean, interactive, and executive-ready dashboard
+
+## 📈 Key Insights Covered
+
+   - Overall attrition rate
+
+   - Attrition by department, job role, and gender
+
+   - Age group and experience-based attrition analysis
+
+   - Salary slab vs attrition comparison
+
+   - Job satisfaction and work-life balance impact
 
 ## 📁 Files Included
 
@@ -28,15 +46,15 @@ This project leverages a structured HR dataset and applies statistical analysis,
 
 - `README.md` — Project documentation
 
-## 🧰 Tools & Technologies
+## 🛠 Tech Stack
 
-- **Power BI** for interactive dashboards and visualization
+   - Power BI – Data visualization & dashboard creation
 
-- **Python** (optional) for preprocessing or deeper analytics
+   - Excel / CSV Dataset – Data source
 
-- **Pandas & Matplotlib** (if used)
+   - Data Modeling – Relationships & calculated measures
 
-- **MS Excel** (for data cleaning or pre-processing if applicable)
+   - DAX – KPIs and custom metrics
 
 ## 📌 Key Features
 
@@ -70,34 +88,23 @@ The dataset (`HR_Analytics.csv`) includes features such as:
 
 - And many more HR-relevant attributes...
 
-## 📌 Objectives
-
-- Identify patterns in attrition across different demographics
-
-- Visualize attrition trends using Power BI
-
-- Recommend strategies to reduce employee turnover
-
-
-> A web-embedded or PDF version of the dashboard can be added here if published.
-
 ## 🚀 How to Use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Adarshteq/Employee-Attrition-Analysis.git
+   git clone https://github.com/Adarshtechy/WorkForce-Attrition-Analytics-PowerBI.git
   '''
 
 2.Open the HR Analytics Dashboard.pbix in Power BI Desktop
 
 3.Load the dataset (HR_Analytics.csv) if prompted
 
-34.Explore filters and visuals to gain insights
+4.Explore filters and visuals to gain insights
 
 📌 Use Cases
 
-HR Reporting & Talent Retention Strategy
+- HR Reporting & Talent Retention Strategy
 
-Predictive attrition modeling
+- Predictive attrition modeling
 
-Workforce planning and policy making
+- Workforce planning and policy making
