@@ -1,4 +1,4 @@
-## Workforce Attrition Analytics (Power BI)
+## Employee Attrition Analytics (Power BI)
 
 A comprehensive Employee Attrition Analysis Dashboard built using Microsoft Power BI, designed to help organizations understand workforce trends, identify attrition drivers, and support data-driven HR decision-making.
 
@@ -92,7 +92,7 @@ The dataset (`HR_Analytics.csv`) includes features such as:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Adarshtechy/WorkForce-Attrition-Analytics-PowerBI.git
+   git clone https://github.com/Adarshtechy/employee-attrition-analytics-powerbi.git
   '''
 
 2. Open the HR Analytics Dashboard.pbix in Power BI Desktop
@@ -101,7 +101,7 @@ The dataset (`HR_Analytics.csv`) includes features such as:
 
 4. Explore filters and visuals to gain insights
 
-📌 Use Cases
+## 📌 Use Cases
 
 - HR Reporting & Talent Retention Strategy
 
